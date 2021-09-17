@@ -1,7 +1,7 @@
-# GitHub for Developers
+# GitHub for Developers 2.0
 
 - Class Date: 
-- Facilitator: @
+- Facilitator: @gusshawstewart
 
 ## Class Resources
 
